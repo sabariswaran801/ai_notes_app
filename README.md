@@ -3,6 +3,10 @@
 A full-stack note-taking application with AI-powered features built to demonstrate MERN/PERN stack development skills.
 
 ---
+## Deployment
+- The app is deployed on **Vercel** for live demonstration.  
+- Live Demo: [https://ai-note-taking-app.vercel.app](https://ai-note-taking-app.vercel.app)
+
 
 ## Table of Contents
 - [Overview](#overview)
