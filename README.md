@@ -80,6 +80,6 @@ This is a simple note-taking app that allows users to create, edit, and manage n
 
 ### Installation
 ```bash
-git clone https://github.com/<your-username>/ai-note-taking-app.git
-cd ai-note-taking-app
+git clone https://github.com/sabariswaran801/ai_notes_app.git
+cd ai_notes_app
 npm install
