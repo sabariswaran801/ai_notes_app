@@ -24,17 +24,15 @@ A full-stack note-taking application with AI-powered features built to demonstra
 ## Overview
 This is a simple note-taking app that allows users to create, edit, and manage notes. AI-powered features help summarize, improve, and auto-generate tags for notes. The app is built with a modern stack including **Next.js**, **TypeScript**, **Hono.js**, **PostgreSQL**, and **shadcn/ui**.
 
-**Duration:** 1-2 days (POC)  
-**Objective:** Demonstrate full-stack development and AI integration skills.  
 
----
+
+
 
 ## Features
 
 ### Authentication
 - User registration and login
 - Protected routes
-- Simple user profile
 
 ### Notes Management
 - Create notes with title and content
@@ -49,30 +47,27 @@ This is a simple note-taking app that allows users to create, edit, and manage n
 ### UI/UX
 - Clean interface using **shadcn/ui**
 - Responsive design
-- Dark/light theme toggle
 
 ---
 
 ## Tech Stack
 
 **Frontend:**
-- Next.js 14 (App Router)
+- Next.js 
 - TypeScript (strict mode)
 - shadcn/ui components
 - Tailwind CSS
 - React Hook Form
 
 **Backend:**
-- Hono.js for API routes
 - PostgreSQL database
-- Drizzle ORM / Prisma
-- Zod for request validation
+-  Prisma
 
 **Authentication:**
-- NextAuth.js / Clerk / Better Auth
+- NextAuth
 
 **AI Integration:**
-- OpenAI API (GPT-3.5/GPT-4) [or your preferred AI API]
+- Gemini AI
 
 ---
 
@@ -81,7 +76,7 @@ This is a simple note-taking app that allows users to create, edit, and manage n
 ### Prerequisites
 - Node.js v20+
 - PostgreSQL database
-- OpenAI API key (or your preferred AI API key)
+- Gemini ApiKey
 
 ### Installation
 ```bash
