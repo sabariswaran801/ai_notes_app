@@ -5,7 +5,7 @@ A full-stack note-taking application with AI-powered features built to demonstra
 ---
 ## Deployment
 - The app is deployed on **Vercel** for live demonstration.  
-- Live Demo: [https://ai-note-taking-app.vercel.app](https://ai-note-taking-app.vercel.app)
+- Live Demo:https://ai-notes-app-y9d2.vercel.app/
 
 
 ## Table of Contents
