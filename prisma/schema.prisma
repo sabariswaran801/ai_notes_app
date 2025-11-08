@@ -5,9 +5,9 @@
 // Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
 
 generator client {
-  provider = "prisma-client"
-  binaryTargets = ["native", "rhel-openssl-3.0.x"]  // ensures Linux support on Vercel
-
+  provider = "prisma-client-js"
+ binaryTargets = ["native", "rhel-openssl-3.0.x"] 
+  engineType    = "binary"  // <--- important for Node server functions
 }
 
 datasource db {
