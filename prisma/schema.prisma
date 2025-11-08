@@ -6,6 +6,8 @@
 
 generator client {
   provider = "prisma-client"
+    binaryTargets = ["native", "rhel-openssl-3.0.x"]  // ensures Linux support on Vercel
+
   output   = "../app/generated/prisma"
 }
 
